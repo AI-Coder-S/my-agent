@@ -1,0 +1,3 @@
+Mon: Team audited 120 safety prompts for the weekly release, all 120 passed guardrail checks
+Wed: Blocked on client VPN access for 4 evaluators (SEC-401), Anita following up with client IT
+Fri: Next week we start annotation on the multimodal reasoning dataset

@@ -1,0 +1,5 @@
+Mon: Evaluated some batches today, several failed the safety rubric
+Tue: Major blocker occurred with model access and the whole team is stopped
+Wed: There is a serious risk of missing the launch deadline next week due to high error rates
+Thu: Someone needs to review the pending edge cases before we proceed
+Fri: Next week we have to start the next project phase

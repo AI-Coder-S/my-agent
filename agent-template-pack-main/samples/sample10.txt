@@ -1,0 +1,10 @@
+Mon: Labeling portal crashed with recurring 504 Gateway Timeouts, halting all team annotation work at 11am
+Mon: Vikram reported that 85 unsaved evaluation forms were permanently lost during the crash (TOOL-112)
+Tue: IT team attempted a hotfix but corrupted the user session state; evaluators cannot log in
+Tue: Blocked on vendor database repair; 23 Quality Policy Experts unable to perform any task reviews
+Wed: Milestone deliverable for Batch 7 is now delayed by 4 business days due to persistent tool failure
+Wed: Still stuck waiting on third-party cloud vendor to provide server recovery root-cause analysis
+Thu: Client escalations received regarding missed daily delivery numbers; emergency bridge call scheduled
+Thu: No access to annotation queue for the third consecutive day, productivity at 0%
+Fri: Next week requires working through the weekend if the staging environment becomes operational
+Fri: Critical blocker unresolved: pending vendor infrastructure overhaul before work can resume

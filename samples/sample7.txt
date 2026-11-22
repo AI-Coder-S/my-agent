@@ -1,0 +1,10 @@
+Mon: Critical blocker: client revoked all sandbox API keys without warning, all 23 evaluators completely blocked since 9am
+Mon: Rohan raised urgent security ticket SEC-902 with client administrators to restore endpoint access
+Tue: Labeling database corrupted after an unannounced server migration; team cannot save or export annotation batches
+Tue: We are stuck waiting on IT support to restore database backups before any quality audits can resume
+Wed: Srishti escalated the double outage to client leadership; zero prompt reviews completed for 48 hours
+Wed: Production launch deadline for Batch 5 is now officially missed due to the ongoing platform downtime
+Thu: Database restored but annotators still blocked because user permissions were reset to read-only
+Thu: Three client stakeholders raised urgent escalation calls regarding delayed milestone deliverables
+Fri: Next week requires an emergency sprint over the weekend if access credentials are restored by Friday night
+Fri: Complete work stoppage continues until client IT issues new authorization tokens

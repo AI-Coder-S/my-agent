@@ -1,0 +1,10 @@
+Mon: Client data ingestion script pushed an invalid JSON schema, corrupting 400 test cases in the active queue
+Mon: All active batch evaluations blocked immediately to prevent annotators from scoring invalid data
+Tue: Multiple automated evaluators failed with fatal parsing errors across all pilot pipelines
+Tue: Evaluators cannot continue work; entire team has been idle for 24 hours waiting on schema repair
+Wed: Srishti raised high-severity incident ticket (DATA-404) with client data engineering team
+Wed: Risk of missing contractual delivery date is now critical with over 3 days of velocity lost
+Thu: Client engineers attempted data reload but corrupted character encoding for non-English prompts
+Thu: Team blocked completely from testing; client director escalated the incident to executive leadership
+Fri: Next week pilot launch postponed indefinitely until data integrity can be guaranteed
+Fri: Emergency recovery meeting scheduled for Monday morning with client VP of Engineering

@@ -1,0 +1,10 @@
+mon: did like 45 evals today on batch 9... mostly good but some weird halucinations in french
+mon: rita fixed the rubric typo in sec 3
+tue: blocker!! cant login to the labeling portal error 502 bad gatewy... evryone stuck since 10am
+tue: aman to ping devops i think??
+wed: got thru 90 prompts today after portal came back up. numbers lookin solid
+wed: client might change the safety scoring rules mid-week, could mess up our timeline real bad
+thu: samir finished the redteam prompts (about 30 of em)
+thu: delay on spreadsheet sync again... so annoying
+fri: next week gonna do batch 10 and onboard new peeps
+fri: still waiting on that api key for image testing... no idea who has it

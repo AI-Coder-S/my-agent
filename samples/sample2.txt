@@ -1,0 +1,10 @@
+Mon: Dev completed adversarial testing on 50 system prompt override prompts, discovering 3 bypass vulnerabilities
+Mon: Shreya finalized the Inter-Annotator Agreement (IAA) calculation for the bias evaluation sprint, scoring 0.88
+Tue: Automated validation script deployed, cutting manual formatting review time by 25%
+Tue: Model safety filter false-positive rate increased to 9% on benign creative writing prompts, under investigation by Dev
+Wed: Client praised the team's detailed vulnerability documentation on the jailbreak taxonomy
+Wed: Vendor delivery of 500 domain-specific medical prompts delayed until Monday, could delay benchmark report
+Thu: Pooja stuck because labeling platform UI crashes when uploading video annotation files over 50MB (TOOL-89)
+Thu: Karan fixed evaluation rubric inconsistencies between toxicity and hate-speech definitions
+Fri: Next week we will benchmark the updated model weights against the OWASP Top 10 for LLMs test suite
+Fri: Pre-calibration dry run scheduled for Tuesday with all 20 red teamers
